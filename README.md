@@ -3,7 +3,7 @@
 An example application that implements the following technologies:
 * Masstransit [http://masstransit-project.com/]
 * RabbitMQ [https://www.rabbitmq.com/]
-* .NET Core
+* .NET Core [https://docs.microsoft.com/en-us/dotnet/core/]
 * Pivotal Cloud Foundry [https://pivotal.io/platform]
 * Lamar [https://jasperfx.github.io/lamar/]
 
