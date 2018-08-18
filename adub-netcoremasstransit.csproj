@@ -6,9 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Lamar" Version="1.1.1" />
     <PackageReference Include="MassTransit" Version="5.1.4" />
+    <PackageReference Include="MassTransit.Lamar" Version="5.1.4" />
     <PackageReference Include="MassTransit.RabbitMQ" Version="5.1.4" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Steeltoe.CloudFoundry.Connector.Rabbit" Version="1.1.0" />
+    <PackageReference Include="Steeltoe.Extensions.Configuration.CloudFoundry" Version="1.1.1" />
   </ItemGroup>
 
 </Project>
