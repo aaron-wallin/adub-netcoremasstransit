@@ -5,6 +5,7 @@ An example application that implements the following technologies:
 * RabbitMQ [https://www.rabbitmq.com/]
 * .NET Core
 * Pivotal Cloud Foundry [https://pivotal.io/platform]
+* Lamar [https://jasperfx.github.io/lamar/]
 
 ## Notes
 
